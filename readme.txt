@@ -8,8 +8,9 @@ Facts
 - extension key: Company_ExampleExtension
 - [extension on Magento Connect](http://www.magentocommerce.com/magento-connect/company-exampleextension-1234.html)
 - Magento Connect 1.0 extension key: magento-community/Company_ExampleExtension
-- Magento Connect 2.0 extension key: http://connect20.magentocommerce.com/community/ExampleExtension
+- Magento Connect 2.0 extension key: http://connect20.magentocommerce.com/community/Company_ExampleExtension
 - [extension on GitHub](https://github.com/company/Company_ExampleExtension)
+- [direct download link](http://connect.magentocommerce.com/community/get/Company_ExampleExtension-0.1.0.tgz)
 
 Description
 -----------
