@@ -37,6 +37,14 @@ Any contribution is highly appreciated. The best way to contribute code is to op
 
 Developer
 ---------
-Forename Surname  
-[http://www.forenamesurname.com](http://www.forenamesurname.com)  
-[@ForenameSurname](https://twitter.com/ForenameSurname)
+FirstName LastName
+[http://www.firstname-lastname.com](http://www.firstname-lastname.com)  
+[@FirstNameLastName](https://twitter.com/FirstNameLastName)
+
+Licence
+-------
+[OSL - Open Software Licence](http://opensource.org/licenses/osl-3.0.php)
+
+Copyright
+---------
+&copy; 2012 Company
