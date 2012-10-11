@@ -18,9 +18,13 @@ This paragraph describes what the extension does.
 
 Requirements
 ------------
-- Magento 1.4 or higher
+- PHP >= 5.2.0
 - Mage_Core
 - ...
+
+Compatibility
+-------------
+- Magento >= 1.4
 
 Installation Instructions
 -------------------------
