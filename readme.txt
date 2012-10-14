@@ -29,8 +29,9 @@ Compatibility
 Installation Instructions
 -------------------------
 1. Install the extension via Magento Connect with the key shown above or copy the whole files into your document root.
-2. Configure and activate the extension under System - Configuration - Company - Example Extension.
-3. ...
+2. Clear the cache, logout from the admin panel and then login again.
+3. Configure and activate the extension under System - Configuration - Company - Example Extension.
+4. ...
 
 Support
 -------
@@ -48,7 +49,7 @@ FirstName LastName
 
 Licence
 -------
-[OSL - Open Software Licence](http://opensource.org/licenses/osl-3.0.php)
+[OSL - Open Software Licence 3.0](http://opensource.org/licenses/osl-3.0.php)
 
 Copyright
 ---------
