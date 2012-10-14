@@ -28,14 +28,14 @@ Compatibility
 
 Installation Instructions
 -------------------------
-1. Install the extension via Magento Connect with the key shown above or copy the whole files into your document root.
+1. Install the extension via Magento Connect with the key shown above or copy all the files into your document root.
 2. Clear the cache, logout from the admin panel and then login again.
 3. Configure and activate the extension under System - Configuration - Company - Example Extension.
 4. ...
 
 Support
 -------
-If you have any issues with the extension, open an issue on [GitHub](https://github.com/company/Company_ExampleExtension/issues).
+If you have any issues with this extension, open an issue on [GitHub](https://github.com/company/Company_ExampleExtension/issues).
 
 Contribution
 ------------
@@ -53,4 +53,4 @@ Licence
 
 Copyright
 ---------
-&copy; 2012 Company
+(c) 2012 Company
