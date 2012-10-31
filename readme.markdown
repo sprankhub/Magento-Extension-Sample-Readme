@@ -33,6 +33,11 @@ Installation Instructions
 3. Configure and activate the extension under System - Configuration - Company - Example Extension.
 4. ...
 
+Uninstallation
+--------------
+1. Remove all extension files from your Magento installation
+2. ...
+
 Support
 -------
 If you have any issues with this extension, open an issue on [GitHub](https://github.com/company/Company_ExampleExtension/issues).
