@@ -68,9 +68,9 @@ GitHub <https://help.github.com/articles/using-pull-requests>`_.
 Developer
 ---------
 
-FirstName LastName
-`http://www.firstname-lastname.com <http://www.firstname-lastname.com>`_
-`@FirstNameLastName <https://twitter.com/FirstNameLastName>`_
+| FirstName LastName
+| `http://www.firstname-lastname.com <http://www.firstname-lastname.com>`_
+| `@FirstNameLastName <https://twitter.com/FirstNameLastName>`_
 
 Licence
 -------
@@ -81,5 +81,6 @@ Licence
 Copyright
 ---------
 
-(c) 2013 Company
+|copy| 2013 Company
 
+.. |copy|   unicode:: U+000A9 .. COPYRIGHT SIGN
