@@ -72,7 +72,7 @@ Developer
 | `http://www.firstname-lastname.com <http://www.firstname-lastname.com>`_
 | `@FirstNameLastName <https://twitter.com/FirstNameLastName>`_
 
-Licence
+License
 -------
 
 `OSL - Open Software Licence

@@ -52,7 +52,7 @@ FirstName LastName
 [http://www.firstname-lastname.com](http://www.firstname-lastname.com)  
 [@FirstNameLastName](https://twitter.com/FirstNameLastName)
 
-Licence
+License
 -------
 [OSL - Open Software Licence 3.0](http://opensource.org/licenses/osl-3.0.php)
 
