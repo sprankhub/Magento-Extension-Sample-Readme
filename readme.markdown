@@ -18,7 +18,7 @@ This paragraph describes what the extension does.
 
 Requirements
 ------------
-- PHP >= 5.2.0
+- PHP >= 5.6.0
 - Mage_Core
 - ...
 
